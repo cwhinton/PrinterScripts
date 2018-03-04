@@ -10,3 +10,6 @@ changed file into a git repository.
 
 This ensures that the latest version of the configuration file is off the printer as well 
 as provide a way back to a previously working configuration.  
+
+Dependencies:
+* Incron installed.  (walkthrough)[https://www.howtoforge.com/tutorial/trigger-commands-on-file-or-directory-changes-with-incron/]
