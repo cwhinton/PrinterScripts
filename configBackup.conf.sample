@@ -1,0 +1,2 @@
+BACKUPDIR=/usr/local/src/configBackup/PrinterConfig-Hevo
+COMMITMSG="Change detected on the printer"
