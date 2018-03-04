@@ -3,7 +3,7 @@
 # get the configuration
 . /etc/configBackup.conf
 
-for aFile in ${FILES[@]};
+for aFile in ${FILES[@]}; do
 	cp ${aFile} ${BACKUPDIR}
 done
 cd ${BACKUPDIR}
